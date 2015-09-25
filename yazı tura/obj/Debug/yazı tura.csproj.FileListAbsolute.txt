@@ -1,0 +1,6 @@
+F:\visualstudio\yazı tura\yazı tura\bin\Debug\yazı tura.exe.config
+F:\visualstudio\yazı tura\yazı tura\bin\Debug\yazı tura.exe
+F:\visualstudio\yazı tura\yazı tura\bin\Debug\yazı tura.pdb
+F:\visualstudio\yazı tura\yazı tura\obj\Debug\yazı tura.csprojResolveAssemblyReference.cache
+F:\visualstudio\yazı tura\yazı tura\obj\Debug\yazı tura.exe
+F:\visualstudio\yazı tura\yazı tura\obj\Debug\yazı tura.pdb
