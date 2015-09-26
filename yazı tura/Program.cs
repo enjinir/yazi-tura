@@ -17,7 +17,7 @@ namespace yazı_tura
             Random rnd = new Random();
             while (check != 'x')
             {
-                Console.WriteLine("Lutfen Kac Karsilastirilma Yapilmasini Istediginizi Girin: ");
+                Console.WriteLine("Lutfen Kac Karsilastirilma Yapilmasini İstediginizi Girin: ");
                 int karsilastirma;
 
                 if (!Int32.TryParse(Console.ReadLine(), out karsilastirma))
